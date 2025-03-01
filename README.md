@@ -62,7 +62,8 @@ JSON（JavaScript Object Notation）是一个用于数据交换的文本格式�
 2. 提供接口访问该数据结构（access）。
 3. 把数据结构转换成 JSON 文本（stringify）。
 
-![requirement](images/requirement.png)
+![image](https://github.com/user-attachments/assets/859a5f92-9e86-40c2-ac80-a5d9cda541e7)
+
 
 我们会逐步实现这些需求。在本单元中，我们只实现最简单的 null 和 boolean 解析。
 
